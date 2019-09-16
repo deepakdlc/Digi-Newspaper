@@ -2,15 +2,6 @@
 
 The Digital Newspaper
 
-## Getting Started
+# Conclusion
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project entitled “DigiNewspaper” is developed using Flutter&Dart as front end and News Api (JSON) database in back end to computerize the process of online News. This project covers only the basic features required. However a lot of features are already incorporated in this project. Moreover extra features can be identified and incorporated in the future In order to accommodate additional features it will take longer time and effort to understand the requirement and converting it into computerized system.
